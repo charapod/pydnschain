@@ -6,4 +6,4 @@ python:
 # install: PLEASE CHANGE ME
 # command to run tests, e.g. python setup.py test
 #script: python setup.py test
-script: nosetests 
+script: python setup.py nosetests 
